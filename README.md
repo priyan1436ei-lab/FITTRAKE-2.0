@@ -93,3 +93,4 @@ TRACEBACK WiFi is an implementation of a particular combined investigative workf
 ## License
 
 MIT — see LICENSE. You are responsible for checking license compliance of your dependencies when distributing binaries.
+"# FITTRAKE-2.0" 
